@@ -8,3 +8,4 @@ for nota in notas:
     quantidade = valor // nota
     print(f"{quantidade} nota(s) de R$ {nota},00")
     valor = valor % nota
+    
